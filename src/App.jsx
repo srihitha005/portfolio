@@ -6,6 +6,7 @@ import AboutSection from './components/AboutSection';
 import ProjectsSection from './components/ProjectsSection';
 import ResumeSection from './components/ResumeSection';
 import ContactSection from './components/ContactSection';
+import CertificatesSection from './components/CertificatesSection';
 import Footer from './components/Footer';
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <HeroSection />
           <AboutSection />
           <ProjectsSection />
+          <CertificatesSection />
           <ResumeSection />
           <ContactSection />
         </main>
